@@ -1,10 +1,11 @@
-# [Demo link](https://layrovell.github.io/timer/)
+# [Demo link](https://layrovell.github.io/timer)
 
 Also you should change homepage property in package.json file.
 
 ## Available Scripts
 
 In the project directory, you can run:
+
 
 ### `npm start`
 
