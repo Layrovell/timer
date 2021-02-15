@@ -1,0 +1,42 @@
+.box {
+  width: 400px;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin: -100px 0 0 -200px;
+  background: linear-gradient(125deg, rgba(30,133,200,1) 0%, rgba(31,195,222,1) 43%, rgba(34,186,198,1) 67%, rgba(0,255,188,1) 100%);  color: white;
+}
+
+.App {
+  font-family: "Roboto", sans-serif;
+}
+
+.content {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.count {
+  text-align: center;
+  margin-bottom: 0 !important;
+  font-size: 44px;
+  font-weight: bold;
+}
+
+span {
+  font-size: 10px;
+}
+
+.hor, .min, .sec {
+  display: flex;
+  justify-content: center;
+}
+
+.buttons {
+  display: flex;
+  justify-content: center;
+}
+
+button {
+  width: 70px;
+}
