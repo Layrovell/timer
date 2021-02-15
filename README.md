@@ -1,4 +1,4 @@
-# [Demo link](https://Layrovell.github.io/timer)
+# [Demo link](https://<name>.github.io/<app_name>)
 
 Also you should change homepage property in package.json file.
 
